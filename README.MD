@@ -139,14 +139,17 @@ curl -X POST "http://127.0.0.1:8000/generate-response" -H "Content-Type: applica
 
 ## Future Enhancements
 
-*Authentication*: Implement authentication mechanisms to secure the API.
+**Authentication**: Implement authentication mechanisms to secure the API.
 
-*Logging*: Add logging to monitor API usage and errors.
+**Logging**: Add logging to monitor API usage and errors.
 
-*Testing*: Develop unit and integration tests to ensure functionality.
+**Testing**: Develop unit and integration tests to ensure functionality.
 
-*Deployment*: Consider deploying the application on a cloud platform for scalability.
+**Deployment**: Consider deploying the application on a cloud platform for scalability.
 
 ## Conclusion
 
 This guide provides a comprehensive overview of setting up a FastAPI application integrated with Vertex AI. By following these steps, you can create a robust and scalable solution for processing user prompts and generating responses using Google's AI capabilities.
+
+## Author 
+[Suraj Sanwal](https://www.github.com/surajSanwal)
