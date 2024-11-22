@@ -7,7 +7,7 @@ from vertexai.generative_models import GenerativeModel, ChatSession
 app = FastAPI()
 
 # Constants for configuration
-PROJECT_ID = "mdz-cons-dev-genai-chat-svc"
+PROJECT_ID = "your project id"
 LOCATION = "us-central1"
 MODEL_NAME = "gemini-1.5-flash-002"
 
